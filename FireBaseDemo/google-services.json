@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "686866181168",
+    "firebase_url": "https://stanford-gsbgo-qa.firebaseio.com",
+    "project_id": "stanford-gsbgo-qa",
+    "storage_bucket": "stanford-gsbgo-qa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686866181168:android:1be3d18b4946a757",
+        "android_client_info": {
+          "package_name": "edu.stanford.gsb.gsbgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686866181168-phscn7lkrs1nhk34sv18hsgr2jghosog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJsUg6gWA1ctdfHkdUS-mH_ATdhcWyZ-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686866181168:android:ea89f803cb5c19ab",
+        "android_client_info": {
+          "package_name": "FireBaseDemo.FireBaseDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686866181168-phscn7lkrs1nhk34sv18hsgr2jghosog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJsUg6gWA1ctdfHkdUS-mH_ATdhcWyZ-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
